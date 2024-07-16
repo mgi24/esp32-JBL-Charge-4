@@ -9,6 +9,7 @@ Cara Pakai:
 3. Pastikan startup.h, maxvol.h, dan shutdown.h semuanya tampil di Arduino IDE
 
    ![image](https://github.com/user-attachments/assets/66102db8-dbdf-49eb-96ee-e621d068f47a)
+
    buat folder baru bernama volumebutton dan tarik semua filenya kesana misal gak tampil
    
 5. Download 3 library ini, caranya download seperti langkah no1
@@ -34,6 +35,6 @@ Cara Pakai:
 16. Silahkan coba flash
 
 Ubah Kode:
-Silahkan bebas ubah kode sesuka kalian, kalian bisa ubah suara on off di startup dan shutdown sesuka kalian.
-
-Untuk vol boost apabila kalian pakai PCM5102 tidak bisa ya! jadi gak guna!
+1. Silahkan bebas ubah kode sesuka kalian, kalian bisa ubah suara on off di startup dan shutdown sesuka kalian.
+2. Untuk vol boost apabila kalian pakai PCM5102 tidak bisa ya! jadi gak guna!
+3. Klo pengen dokumentasi lebih baik dan contoh contoh penggunaannya, silahkan buka lagi link cara pakai di langkah no4 utamanya yang ESP32-A2DP dan arduino audio tools, di bagian example isinya banyak banget!
